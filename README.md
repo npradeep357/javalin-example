@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/npradeep357/javalin-example.svg?branch=master)](https://travis-ci.com/npradeep357/javalin-example)
+
 # javalin-example
 An example implementation of how to use javalin web server framewaork to create a simple, fast and light weight REST service without using custom annotations and reflections.
 
