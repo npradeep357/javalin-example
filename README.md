@@ -1,11 +1,11 @@
 [![Build Status](https://travis-ci.com/npradeep357/javalin-example.svg?branch=master)](https://travis-ci.com/npradeep357/javalin-example)
 
 # javalin-example
-An example implementation of how to use javalin web server framewaork to create a simple, fast and light weight REST service without using custom annotations and reflections.
+An example implementation of how to use javalin web server framework to create a simple, fast and light weight REST service without using custom annotations and reflections.
 
 This example uses javalin 2.7.0 version. More details on Javalin can be found on https://javalin.io.
 
-To make this jar a docker image add the following plugin in the build tag of pom.xml and run build on the machine where docker and docker registry are installed.
+To make this jar a docker image, add the following plugin in the build tag of pom.xml and run build on the machine where docker and docker registry are installed.
 You can edit the configuration as you like to talk to other regsiteries.
 
       <plugin>
